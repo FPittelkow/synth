@@ -3315,7 +3315,7 @@
     (property "Value" "AudioJack2" (id 1) (at 272.034 101.8539 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal" (id 2) (at 275.844 107.442 0)
+    (property "Footprint" "" (id 2) (at 275.844 107.442 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 275.844 107.442 0)
@@ -3636,7 +3636,7 @@
       (reference "D8") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/b5089c97-a564-4bf6-b741-fac03e0240fa"
-      (reference "J1") (unit 1) (value "AudioJack2") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal")
+      (reference "J1") (unit 1) (value "AudioJack2") (footprint "")
     )
     (path "/0d687931-25dd-4c0c-996a-978c8b96e021"
       (reference "Q1") (unit 1) (value "BC546") (footprint "Package_TO_SOT_THT:TO-92_Inline")
