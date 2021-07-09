@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/friedrichpittelkow/Desktop/synth/syn/syn.kicad_sch</source>
-    <date>2021 June 12, Saturday 00:29:41</date>
+    <date>2021 July 02, Friday 15:00:11</date>
     <tool>Eeschema (5.99.0-10988-gd8b1e827c7)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -46,6 +46,7 @@
     </comp>
     <comp ref="C1">
       <value>100n</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -55,6 +56,7 @@
     </comp>
     <comp ref="C2">
       <value>10n</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -64,6 +66,7 @@
     </comp>
     <comp ref="C3">
       <value>100n</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -73,6 +76,7 @@
     </comp>
     <comp ref="C4">
       <value>22n</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -82,6 +86,7 @@
     </comp>
     <comp ref="C5">
       <value>22n</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -91,6 +96,7 @@
     </comp>
     <comp ref="C6">
       <value>1n</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -100,6 +106,7 @@
     </comp>
     <comp ref="C7">
       <value>1u</value>
+      <footprint>Capacitor_SMD:C_2225_5664Metric_Pad1.80x6.60mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value=""/>
@@ -109,6 +116,7 @@
     </comp>
     <comp ref="D1">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -128,6 +136,7 @@
     </comp>
     <comp ref="D3">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -137,6 +146,7 @@
     </comp>
     <comp ref="D4">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -146,6 +156,7 @@
     </comp>
     <comp ref="D5">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -155,6 +166,7 @@
     </comp>
     <comp ref="D6">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -164,6 +176,7 @@
     </comp>
     <comp ref="D7">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -173,6 +186,7 @@
     </comp>
     <comp ref="D8">
       <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
@@ -182,6 +196,7 @@
     </comp>
     <comp ref="J1">
       <value>AudioJack2</value>
+      <footprint>Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
       <property name="Sheetname" value=""/>
@@ -221,6 +236,7 @@
     </comp>
     <comp ref="R1">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -230,6 +246,7 @@
     </comp>
     <comp ref="R2">
       <value>10k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -239,6 +256,7 @@
     </comp>
     <comp ref="R3">
       <value>1k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -248,6 +266,7 @@
     </comp>
     <comp ref="R4">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -257,6 +276,7 @@
     </comp>
     <comp ref="R5">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -266,6 +286,7 @@
     </comp>
     <comp ref="R6">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -275,6 +296,7 @@
     </comp>
     <comp ref="R7">
       <value>10k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -284,6 +306,7 @@
     </comp>
     <comp ref="R8">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -293,6 +316,7 @@
     </comp>
     <comp ref="R9">
       <value>10k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -302,6 +326,7 @@
     </comp>
     <comp ref="R10">
       <value>270k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -311,6 +336,7 @@
     </comp>
     <comp ref="R11">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -320,6 +346,7 @@
     </comp>
     <comp ref="R12">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -329,6 +356,7 @@
     </comp>
     <comp ref="R13">
       <value>470</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -338,6 +366,7 @@
     </comp>
     <comp ref="R14">
       <value>470</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -347,6 +376,7 @@
     </comp>
     <comp ref="R15">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -356,6 +386,7 @@
     </comp>
     <comp ref="R16">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -365,6 +396,7 @@
     </comp>
     <comp ref="R17">
       <value>10K</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -374,6 +406,7 @@
     </comp>
     <comp ref="R18">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -383,6 +416,7 @@
     </comp>
     <comp ref="R19">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -392,6 +426,7 @@
     </comp>
     <comp ref="R20">
       <value>100k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -401,6 +436,7 @@
     </comp>
     <comp ref="R21">
       <value>10k</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -410,6 +446,7 @@
     </comp>
     <comp ref="R22">
       <value>470</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -419,6 +456,7 @@
     </comp>
     <comp ref="R23">
       <value>470</value>
+      <footprint>Resistor_SMD:R_0815_2038Metric_Pad1.20x4.05mm_HandSolder</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -428,6 +466,7 @@
     </comp>
     <comp ref="RV1">
       <value>100kB</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -437,6 +476,7 @@
     </comp>
     <comp ref="RV2">
       <value>100kB</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -446,6 +486,7 @@
     </comp>
     <comp ref="RV3">
       <value>100kB</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -455,6 +496,7 @@
     </comp>
     <comp ref="RV4">
       <value>100kB</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -464,6 +506,7 @@
     </comp>
     <comp ref="RV5">
       <value>100kB</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -473,6 +516,7 @@
     </comp>
     <comp ref="RV6">
       <value>100kB</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -482,6 +526,7 @@
     </comp>
     <comp ref="RV7">
       <value>100kA</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
       <property name="Sheetname" value=""/>
@@ -490,7 +535,8 @@
       <tstamps>a0c797d3-b94a-4a19-932c-d2460ebd12bd</tstamps>
     </comp>
     <comp ref="SW1">
-      <value>SW_Push</value>
+      <value>Gate1</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H9.5mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
@@ -499,7 +545,8 @@
       <tstamps>1fa4469f-3c4f-43ff-b43b-cded908e30b8</tstamps>
     </comp>
     <comp ref="SW2">
-      <value>SW_Push</value>
+      <value>Gate2</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H9.5mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
@@ -509,6 +556,7 @@
     </comp>
     <comp ref="SW3">
       <value>Range</value>
+      <footprint>Button_Switch_THT:SW_NKK_G1xJP</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push_DPDT" description="Momentary Switch, dual pole double throw"/>
       <property name="Sheetname" value=""/>
@@ -517,7 +565,8 @@
       <tstamps>b63b1288-b7ce-48a0-975d-aae1d565d787</tstamps>
     </comp>
     <comp ref="SW4">
-      <value>SW_Push</value>
+      <value>Gate3</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H9.5mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
@@ -526,7 +575,8 @@
       <tstamps>1037afd7-3f40-476f-91ca-7ce71a5e138e</tstamps>
     </comp>
     <comp ref="SW5">
-      <value>SW_SPST</value>
+      <value>Gate3SW</value>
+      <footprint>Button_Switch_THT:SW_NKK_G1xJP</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <property name="Sheetname" value=""/>
@@ -536,6 +586,7 @@
     </comp>
     <comp ref="SW6">
       <value>Wave</value>
+      <footprint>Button_Switch_THT:SW_NKK_G1xJP</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push_DPDT" description="Momentary Switch, dual pole double throw"/>
       <property name="Sheetname" value=""/>
@@ -545,6 +596,7 @@
     </comp>
     <comp ref="SW7">
       <value>Mod</value>
+      <footprint>Button_Switch_THT:SW_NKK_G1xJP</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push_DPDT" description="Momentary Switch, dual pole double throw"/>
       <property name="Sheetname" value=""/>
@@ -554,6 +606,7 @@
     </comp>
     <comp ref="SW8">
       <value>Resonance</value>
+      <footprint>Button_Switch_THT:SW_NKK_G1xJP</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <property name="Sheetname" value=""/>
@@ -563,6 +616,7 @@
     </comp>
     <comp ref="SW9">
       <value>Power</value>
+      <footprint>Button_Switch_THT:SW_NKK_G1xJP</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Switch" part="SW_Push_DPDT" description="Momentary Switch, dual pole double throw"/>
       <property name="Sheetname" value=""/>
@@ -572,12 +626,13 @@
     </comp>
     <comp ref="U1">
       <value>MCP6004</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="MCP6004" description="1MHz, Low-Power Op Amp, DIP-14/SOIC-14/TSSOP-14"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="syn.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c2e8a68d-07a7-4356-b256-d8c42bf46ac9 99d5e25b-e8d5-4693-846e-b95432656290 f17597ca-3525-439b-aa5c-24341ad3f054 88041e69-fd38-474b-b1db-3008aa0d8bb0 1880cfc6-ee1b-4037-bc3a-c8c711d6d5d8</tstamps>
+      <tstamps>f17597ca-3525-439b-aa5c-24341ad3f054 99d5e25b-e8d5-4693-846e-b95432656290 c2e8a68d-07a7-4356-b256-d8c42bf46ac9 88041e69-fd38-474b-b1db-3008aa0d8bb0 1880cfc6-ee1b-4037-bc3a-c8c711d6d5d8</tstamps>
     </comp>
   </components>
   <libparts>
